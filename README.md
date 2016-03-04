@@ -1,0 +1,1 @@
+This is app is to track the stocks which our firneds were following
